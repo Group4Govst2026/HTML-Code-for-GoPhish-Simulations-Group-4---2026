@@ -1,0 +1,1 @@
+This downloadable .txt file gives you all the HTML code used in our phishing simulations/templates through the GoPhish system. Follow the tutorial given in the file and you should be able to recreate the simulations used in our actual testing sessions!
